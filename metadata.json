@@ -1,0 +1,6 @@
+{
+  "name": "TURMS Construction",
+  "description": "Toronto's Exterior Specialists - Premium Stucco, Vinyl Siding, Parging, and Moulding services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
